@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+data/*.csv
+diabetic_data.csv
+*.pyc
+olist_3_data_vscode
